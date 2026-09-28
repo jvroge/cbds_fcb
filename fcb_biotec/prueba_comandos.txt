@@ -1,0 +1,16 @@
+  625  nano resumen_2024.txt
+  626  nano resumen_2024.txt
+  627  ls
+  628  cd ..
+  629  ls -lh
+  630  sl -a
+  631  ls -a
+  632  ls -lha
+  633  nano datos_muestras.txt
+  634  nano README.txt
+  635  nano datos_muestras.txt
+  636  cd ..
+  637  ls
+  638  mv material_practica1_ fcb_material_practica1
+  639  scp -r ./fcb_material_practica1 profesor@10.199.1.32:/home/profesor/
+  640  ssh profesor@10.199.1.32
